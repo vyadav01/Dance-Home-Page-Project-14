@@ -16,11 +16,11 @@ It took me 5-6 hours to complete this project.( it was lengthy not difficult. )
 **Note :** This project is not optimized for mobile yet.
 
 
-**[Live Project's netlify link](https://saas-landing-page-project-13.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://dance-home-page-project-14.netlify.app/ "Project link")**
 
 
 
-[![Project ScreenShot](./css%20project_14%20done.png)](https://saas-landing-page-project-13.netlify.app/ "Project link")
+[![Project ScreenShot](./css%20project_14%20done.png)](https://dance-home-page-project-14.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Project__14-Dance%20Home%20Page-yellow)](https://saas-landing-page-project-13.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Project__14-Dance%20Home%20Page-yellow)](https://dance-home-page-project-14.netlify.app/ "Project link")
